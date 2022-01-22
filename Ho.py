@@ -5,7 +5,7 @@
 #Reserved2020
 
 
-#Syam_Sasiya mengo frend
+#black_Sasiya 
 
  
 
@@ -607,7 +607,7 @@ def menu():
 
  
 
-    print("\t\033[32mActive Token.... : " +nm)
+    print("\t\033[32monline user.... : " +nm)
 
  
 
@@ -631,7 +631,7 @@ def menu():
 
  
 
-    print("\033[31[3]\033[32Crack From Followers id")
+    print("\033[31[3]\033[32mCrack From Followers id")
 
  
 
