@@ -153,11 +153,11 @@ logo = """
 \033[32m▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
 
-\033[1;91m-------------------------------------------------                           
+\033[1;91m================================================                           
 
-          \033[7mUSE FAST 4G SPEED INTERNET
+          \033[32mUSE FAST 4G SPEED INTERNET
 
-\033[1;91m-------------------------------------------------
+\033[1;91m=================================================
 
  
 
@@ -287,7 +287,7 @@ def login():
 
  
 
-    print("\033[0;92m[ Login Menu ]").center(50)
+    print("\033[32m[ Login Menu ]").center(50)
 
  
 
@@ -295,7 +295,7 @@ def login():
 
  
 
-    print("\033[1;97m[1]\033[1;96mLogin Using Token")
+    print("\033[31m[1]\033[32mLogin Using Token")
 
  
 
@@ -303,7 +303,7 @@ def login():
 
  
 
-    print("\033[1;97m[2]\033[1;96mHOW TO GET FREE TOKEN.")
+    print("\033[31m[2]\033[32mHOW TO TOKEN.")
 
  
 
@@ -311,7 +311,7 @@ def login():
 
  
 
-    print("\033[1;97m[3]\033[1;91mBack")
+    print("\033[32[3]\033[34mBack")
 
  
 
@@ -403,7 +403,7 @@ def login_select():
 
  
 
-	    os.system("https://www.facebook.com/Syam.king07")
+	    os.system("https://www.facebook.com/teesha.fernando.90")
 
 	
 
