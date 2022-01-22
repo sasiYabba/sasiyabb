@@ -225,7 +225,7 @@ def main_select():
 
  
 
-    Mz = raw_input("\033[31m[=] Choose Opition\033[32m ")
+    Mz = raw_input("\033[31m[=] Choose Opition:\033[32m ")
 
  
 
@@ -395,7 +395,7 @@ def login_select():
 
  
 
-            print("\033[1;92mYour token login successfully").center(50)
+            print("\033[32mYour token login successfully").center(50)
 
  
 
@@ -425,7 +425,7 @@ def login_select():
 
  
 
-            print("\033[1;91mToken invalid or account has checkpoint\033[0;97m").center(50)
+            print("\033[1;91mToken invalid or account has checkpoint\033[31m").center(50)
 
  
 
@@ -445,7 +445,7 @@ def login_select():
 
  
 
-        os.system("https://www.facebook.com/Syam.king07")
+        os.system("https://www.facebook.com/teesha.fernando.90")
 
  
 
@@ -607,7 +607,7 @@ def menu():
 
  
 
-    print("\t\033[1;92mActive Token.... : " +nm)
+    print("\t\033[32mActive Token.... : " +nm)
 
  
 
@@ -615,7 +615,7 @@ def menu():
 
  
 
-    print("\033[1;97m[1]\033[1;92mCrack From Friendlist")
+    print("\033[31[1]\033[32mCrack From Friendlist")
 
  
 
@@ -623,7 +623,7 @@ def menu():
 
  
 
-    print("\033[1;97m[2]\033[1;92mCrack From Public id")
+    print("\033[31m[2]\033[32mCrack From Public id")
 
  
 
@@ -631,7 +631,7 @@ def menu():
 
  
 
-    print("\033[1;97m[3]\033[1;92mCrack From Followers id")
+    print("\033[31[3]\033[32Crack From Followers id")
 
  
 
@@ -639,7 +639,7 @@ def menu():
 
  
 
-    print("\033[1;97m[0]\033[1;97mEXIT SYaM")
+    print("\033[32m[0]\033[31mBACK BEY BRO")
 
  
 
@@ -823,7 +823,7 @@ def menu_select():
 
  
 
-		idt = raw_input("\033[1;97m[#] Put ID Link :\033[1;96m ")
+		idt = raw_input("\033[31m[#] Put ID :\033[32m ")
 
  
 
@@ -987,7 +987,7 @@ def menu_select():
 
  
 
-		        print("\033[1;93m[Syam>CP] "+uid+" = "+pass1)
+		        print("\033[31[SASI-CP] "+uid+" = "+pass1)
 
  
 
@@ -1015,7 +1015,7 @@ def menu_select():
 
  
 
-		            print("\x1b[1;97m[Syam=OK] "+uid+" = "+pass1+"\x1b[1;0m")
+		            print("\x1b[32m[SASI-Ok] "+uid+" = "+pass1+"\x1b[1;0m")
 
  
 
@@ -1055,7 +1055,7 @@ def menu_select():
 
  
 
-		                print("\033[1;93m[Syam>CP] "+uid+" = "+pass2)
+		                print("\033[32m[SASI-CP] "+uid+" = "+pass2)
 
  
 
@@ -1083,7 +1083,7 @@ def menu_select():
 
  
 
-		                    print("\x1b[1;97m[Syam=OK] "+uid+" = "+pass2+"\x1b[1;0m")
+		                    print("\x1b[32m[SASI-OK] "+uid+" = "+pass2+"\x1b[1;0m")
 
  
 
@@ -1123,7 +1123,7 @@ def menu_select():
 
  
 
-		                        print("\033[1;93m[Syam>CP] "+uid+" = "+pass3)
+		                        print("\033[31m[SASI-CP] "+uid+" = "+pass3)
 
  
 
@@ -1151,7 +1151,7 @@ def menu_select():
 
  
 
-		                            print("\x1b[1;97m[Syam=OK] "+uid+" = "+pass3+"\x1b[1;0m")
+		                            print("\x1b[32m[SASI-OK] "+uid+" = "+pass3+"\x1b[1;0m")
 
  
 
@@ -1191,7 +1191,7 @@ def menu_select():
 
  
 
-		                                print("\033[1;93m[Syam>CP] "+uid+" = "+pass4)
+		                                print("\033[31m[SASI>CP] "+uid+" = "+pass4)
 
  
 
@@ -1219,7 +1219,7 @@ def menu_select():
 
  
 
-		                                    print("\x1b[1;97m[Syam=OK] "+uid+" = "+pass4+"\x1b[1;0m")
+		                                    print("\x1b[32m[SASI=OK] "+uid+" = "+pass4+"\x1b[1;0m")
 
  
 
@@ -1483,7 +1483,7 @@ def menu_select():
 
  
 
-	print ("[!] itz Syam Brand Total Cp/Ok : "+str(len(cps)) + "/"+str(len(oks)))
+	print ("[!] itz SASI  Total Cp/Ok : "+str(len(cps)) + "/"+str(len(oks)))
 
  
 
