@@ -193,7 +193,7 @@ def main():
 
  
 
-    print("\033[1;96m[1]\033[1;97mSTART CLONING")
+    print("\033[31m[1]\033[32mSTART CLONING")
 
  
 
@@ -201,7 +201,7 @@ def main():
 
  
 
-    print("\033[1;95m[2]\033[1;97mFOLLOW Syam Shaha ")
+    print("\033[31m[2]\033[1;97mFOLLOW Facebook  ")
 
  
 
