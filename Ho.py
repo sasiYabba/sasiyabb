@@ -185,7 +185,7 @@ def main():
 
  
 
-    print("\033[0;96m[ LETS START ]").center(50)
+    print("\033[7m[ LETS START ]").center(50)
 
  
 
@@ -201,7 +201,7 @@ def main():
 
  
 
-    print("\033[31m[2]\033[1;97mFOLLOW Facebook  ")
+    print("\033[31m[2]\033[32mFOLLOW Facebook  ")
 
  
 
@@ -209,7 +209,7 @@ def main():
 
  
 
-    print("\033[1;91m[0]\033[1;97mEXIT Syam Shah ")
+    print("\033[1;91m[0]\033[32mEXIT SASI ")
 
  
 
