@@ -185,7 +185,7 @@ def main():
 
  
 
-    print("\033[7m[ LETS START ]").center(50)
+    print("\033[32m[ LETS START ]").center(50)
 
  
 
