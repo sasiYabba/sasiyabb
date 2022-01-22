@@ -225,7 +225,7 @@ def main_select():
 
  
 
-    Mz = raw_input("\033[1;97m[#] Choose Opition --->\033[1;96m ")
+    Mz = raw_input("\033[31m[=] Choose Opition\033[32m ")
 
  
 
@@ -241,7 +241,7 @@ def main_select():
 
  
 
-        os.system("https://www.facebook.com/Syam.king07")
+        os.system("https://www.facebook.com/teesha.fernando.90")
 
  
 
@@ -259,7 +259,7 @@ def main_select():
 
  
 
-        print("[!] Please select a valid option").center(50)
+        print("[!] Please select a valid option ekk torpan pako").center(50)
 
  
 
